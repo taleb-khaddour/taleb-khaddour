@@ -10,16 +10,10 @@ uiui
 **Email:** taleb.khaddour.20311@gmail.com 
 **Telephone:** +961 71 936 675  
 
-# PROFILE
 
-Junior Web Developer specializing in front end development.
-Experienced with all stages of the development cycle for dynamic
-web projects. Well-versed in numerous programming languages
-including HTML5, JavaScript, CSS3;knowledge PHP, MySQL.
-Strong background in customer relations.I also have an interest in
-networking.
 
 #  Education
+Bachelor Degree in **Computer Science**, AUL Tripoli
 
 ## PNET Institut technical
 **LT administrator computing and programing** 
@@ -28,7 +22,7 @@ networking.
 ## AUL university
 **Computer science /BA**
 **2021/2022**
-**GPA =** 2.9/4
+
 
 
 
