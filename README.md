@@ -1,9 +1,5 @@
 ### Hi there my name is Taleb Khaddour👋
 
-# has
-
-
-
 **Location:** Tripoli, North Lebanon  
 **Date of Birth:** 24.04.1998  
 **Email:** taleb.khaddour.20311@gmail.com 
