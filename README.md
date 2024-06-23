@@ -10,10 +10,9 @@
 #  Education
 Bachelor Degree in **Computer Science**, AUL Tripoli
 
-## PNET Institut technical
+## IPNET Institut technical
 **LT administrator computing and programing** 
 **2019/2020**
-13.4/20
 ## AUL university
 **Computer science /BA**
 **2021/2022**
