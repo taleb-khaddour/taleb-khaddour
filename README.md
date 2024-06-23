@@ -1,8 +1,7 @@
 ### Hi there my name is Taleb Khaddour👋
 
 # has
-hjyj
-uiui
+
 
 
 **Location:** Tripoli, North Lebanon  
